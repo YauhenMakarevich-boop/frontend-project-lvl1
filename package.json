@@ -1,0 +1,24 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/YauhenMakarevich-boop/frontend-project-lvl1#readme",
+  "bugs": {
+    "url": "https://github.com/YauhenMakarevich-boop/frontend-projecлупt-lvl1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YauhenMakarevich-boop/frontend-project-lvl1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+  "brain-games": "bin/brain-games.js"
+},
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
