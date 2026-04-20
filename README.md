@@ -2,6 +2,8 @@
 # frontend-project-lvl1
 # Демонстрация игры Brain Games - игра "Проверка на четность"
 [![asciicast](https://asciinema.org/a/ldcrpAucPSQW8RbN.svg)](https://asciinema.org/a/ldcrpAucPSQW8RbN)
+# Демонстрация игры Brain Games - игра "Калькулятор"
+[![asciicast](https://asciinema.org/a/Z5pDfliUOq0Uqrj2.svg)](https://asciinema.org/a/Z5pDfliUOq0Uqrj2)
 ### Установка
 
 ```bash
