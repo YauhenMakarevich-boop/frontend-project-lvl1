@@ -13,7 +13,7 @@ function getRandomOperation(){
     return mathOperation[randomIndex];   
 }
 
-function gameCalc(name){
+ export default function gameCalc(name){
     console.log("What is the result of the expression?");
     
     let correctAnswers = 0;
@@ -45,6 +45,4 @@ function gameCalc(name){
     console.log(`Congratulations, ${name}!`);
 }
 
-console.log("Welcome to the Brain Games!")
-const playerName = greeting()
-gameCalc(playerName)
+
