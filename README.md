@@ -5,7 +5,7 @@
 # Демонстрация игры Brain Games - игра "Калькулятор"
 [![asciicast](https://asciinema.org/a/Z5pDfliUOq0Uqrj2.svg)](https://asciinema.org/a/Z5pDfliUOq0Uqrj2)
 # Демонстрация игры Brain Games - игра "НОД"
-https://asciinema.org/a/dcpDVkJhgo1RCrzB
+[![asciicast](https://asciinema.org/a/dcpDVkJhgo1RCrzB.svg)](https://asciinema.org/a/dcpDVkJhgo1RCrzB)
 ### Установка
 
 ```bash
