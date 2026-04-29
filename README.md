@@ -6,6 +6,8 @@
 [![asciicast](https://asciinema.org/a/Z5pDfliUOq0Uqrj2.svg)](https://asciinema.org/a/Z5pDfliUOq0Uqrj2)
 # Демонстрация игры Brain Games - игра "НОД"
 [![asciicast](https://asciinema.org/a/dcpDVkJhgo1RCrzB.svg)](https://asciinema.org/a/dcpDVkJhgo1RCrzB)
+# Демонстрация игры Brain Games - игра "Угадай число в прогрессии"
+[![asciicast](https://asciinema.org/a/rQ4BCKbTCMIFSgsJ.svg)](https://asciinema.org/a/rQ4BCKbTCMIFSgsJ)
 ### Установка
 
 ```bash

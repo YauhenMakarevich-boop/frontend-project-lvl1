@@ -40,7 +40,6 @@ export default function gameGcd(name){
     }
     console.log(`Congratulations, ${name}!`);
 }
-const playerName = greeting();
-gameGcd(playerName);
+
 
 

@@ -34,6 +34,7 @@ export default function gameIsEven(name) {
             return;
         }
     }
+    console.log(`Congratulations, ${name}!`);
     
 }
 
